@@ -138,6 +138,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [QuizForge.ai](https://quizforge.ai) — Free CLF practice exams generated from the official exam blueprint, with answer explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free CLF-C02 practice exams with detailed explanations
 * [CloudCertPrep](https://www.cloudcertprep.io/aws/clf-c02) — Free and open-source CLF-C02 practice exams: 1,050 questions with explanations. No signup, no ads, every answer auditable on GitHub (MIT licensed).
+* _paid_ [ExamCrest CLF-C02 practice exams](https://examcrest.com/exam/aws-clf-c02/free-questions) — Free sample questions with per-option explanations (no signup); full timed mock exams are a one-time purchase.
 
 ### Notes
 
@@ -158,6 +159,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 ### Practice Exams
 
 * [CloudCertPrep](https://www.cloudcertprep.io/aws/aif-c01) — Free and open-source AIF-C01 practice exams: 419 questions with explanations across all five domains. No signup, no ads, MIT licensed.
+* _paid_ [ExamCrest AIF-C01 practice exams](https://examcrest.com/exam/aws-aif-c01/free-questions) — Free sample questions with per-option explanations (no signup); full timed mock exams are a one-time purchase.
 
 ## AWS Certified Solutions Architect - Associate (SAA-C02)
 
@@ -184,6 +186,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * _paid_ [Tutorials Dojo 5 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
 * [QuizForge.ai](https://quizforge.ai) — Free SAA practice questions generated from the official exam blueprint, with explanations in English, Spanish, or Hindi
 * [CertPrepNow](https://certprepnow.com) — Free SAA-C03 practice exams with detailed explanations
+* _paid_ [ExamCrest SAA-C03 practice exams](https://examcrest.com/exam/aws-saa-c03/free-questions) — Free sample questions with per-option explanations (no signup); full timed mock exams are a one-time purchase.
 
 ### Notes
 
@@ -220,6 +223,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/)
 * _paid_ [DigitalCloud Training practice exams (+350 questions)](https://digitalcloud.training/courses/aws-certified-developer-associate-practice-exams/)
 * [CertPrepNow](https://certprepnow.com) — Free SAP-C02 practice exams with detailed explanations
+* _paid_ [ExamCrest DVA-C02 practice exams](https://examcrest.com/exam/aws-dva-c02/free-questions) — Free sample questions with per-option explanations (no signup); full timed mock exams are a one-time purchase.
 
 ### Notes
 
@@ -245,6 +249,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Sample-Questions.pdf)
 * [Exam topics](https://www.examtopics.com/exams/amazon/aws-certified-sysops-administrator-associate/)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-sysops-administrator-associate-practice-exams/)
+* _paid_ [ExamCrest SOA-C03 practice exams](https://examcrest.com/exam/aws-soa-c03/free-questions) — Free sample questions with per-option explanations (no signup); full timed mock exams are a one-time purchase.
 
 ### Notes
 
@@ -270,6 +275,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)
 * [Exam topics +800 questions (mostly accessible without Login)](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/)
 * _paid_ [Tutorials Dojo 4 practice exams by Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-professional-practice-exams/)
+* _paid_ [ExamCrest SAP-C02 practice exams](https://examcrest.com/exam/aws-sap-c02/free-questions) — Free sample questions with per-option explanations (no signup); full timed mock exams are a one-time purchase.
 
 ### Notes
 
@@ -291,6 +297,7 @@ We encourage you to contribute to Awesome AWS Certifications! Please check out t
 
 * [Official Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS-Certified-DevOps-Engineer-Professional_Sample-Questions.pdf)
 * [Exam topics +500 questions (mostly accessible without Login)](https://www.examtopics.com/exams/amazon/aws-devops-engineer-professional/)
+* _paid_ [ExamCrest DOP-C02 practice exams](https://examcrest.com/exam/aws-dop-c02/free-questions) — Free sample questions with per-option explanations (no signup); full timed mock exams are a one-time purchase.
 
 ### Notes
 
